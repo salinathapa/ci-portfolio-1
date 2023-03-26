@@ -59,3 +59,18 @@ It will be a work in progress site that I will slowly keep adding onto so I can 
 <br>
 
 <img width="960" alt="Screenshot 2023-03-26 231100" src="https://user-images.githubusercontent.com/119977423/227809141-296f6025-d91b-4eb0-864c-be9ac386fd4c.png">
+
+<br>
+
+<h3>Testing</h3>
+
+<p>When I initially tested my site and submitted it, it turns out that nothing had been pushed hence why my site wasn't loading. Thanfully, I was able to recover most data and change up the style of my webpage for a more accessible look because of this.</p>
+
+<br>
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227809368-e19767d9-400e-43fb-b8b0-b887facbf630.png">
+
+<br>
+
+<p>https://validator.w3.org/nu/</p>
+<p>I was able to use this site to check my HTML to ensure that the website is as accessible as it can be</p>
