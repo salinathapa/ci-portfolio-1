@@ -14,7 +14,7 @@ Employers will be able to use my website for information about myself, my career
 
 <br>
 
-<img width="953" alt="image" src="https://user-images.githubusercontent.com/119977423/224456773-f1722480-449f-4c14-b201-788d0557b51c.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227807753-1d9fbf2a-7a21-4c78-bc7e-8d55abf14961.png">
 
 <br>
 
@@ -26,7 +26,7 @@ Employers will be able to use my website for information about myself, my career
 
 <br>
 
-<img width="936" alt="image" src="https://user-images.githubusercontent.com/119977423/224457175-8be1c569-540a-40a9-a634-0f6353a2e95b.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227807773-96abed68-42a4-445d-81cf-d1cfaab4bd91.png">
 
 <br>
 
@@ -37,15 +37,15 @@ Employers will be able to use my website for information about myself, my career
 
 <br>
 
-<img width="959" alt="Screenshot_20230311_012923" src="https://user-images.githubusercontent.com/119977423/224457510-65a66cb9-81e4-402d-8e22-6b6d1a81406a.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227807793-fba8b933-e258-43c4-8a69-0c19bab8d348.png">
 
-<h3>Contact Page</h3>
+<h3>Contact Me Page and Footer</h3>
 
 <li>The contact page is a simple form for employers to send over their details</li>
 
 <br>
 
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/119977423/224457629-54a06a2e-3868-4830-b307-22d5824d9122.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227807812-3f88710e-605c-4adf-a879-63e494d53055.png">
 
 <h3>Footer</h3>
 
