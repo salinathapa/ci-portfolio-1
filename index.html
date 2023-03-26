@@ -7,8 +7,8 @@
     <meta name="description" content="An online portfolio for Salina Thapa">
     <title>Salina Thapa</title>
 
-    <link rel="stylesheet" href="CSS/style.css">
-    
+    <link rel="stylesheet" href="Assets/CSS/style.css">
+    <script src="https://kit.fontawesome.com/2d69e80447.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <nav>
@@ -30,9 +30,54 @@
     </div>
     <div id="career">
         <h1>Career</h1>
+        <br>
+        <div class="card">
+            <h2>Volunteer at PDSA</h2>
+            <h3>May 2013-Sept 2013</h3>
+            <ul>
+                <li>
+                    Sorting and pricing new donations
+                </li>
+                <li>
+                    Organising the shop floor in new and creative ways to boost sales
+                </li>
+                <li>
+                    Reaching weekly targets through teamwork and great communication
+                </li>
+            </ul>
+        </div>
     </div>
     <div id="contact">
-        <h1>Contact</h1>
+        <h1>Contact Me</h1>
+            <form action="thank-you.html" class="form">
+                <label for="fname" class="textid">First Name</label>
+                <input type="text" id="fname" name="first_name" required class="text-input">
+                <label for="lname" class="textid">Last Name</label>
+                <input type="text" id="lname" name="last_name" required class="text-input">
+                <label for="email" class="textid">Email Address</label>
+                <input type="email" id="email" name="email_address" required class="text-input">
+                <label for="textarea" class="textid">Your Message</label>
+                <textarea name="textarea" id="textarea" required></textarea>
+                <input type="submit" value="Submit!" class="submit-button">
+            </form>
     </div>
+    <footer>
+        <h2>Connect with me on Social Media!</h2>
+            <ul class="socials">
+                <li>
+                    <a href="https://www.linkedin.com/in/salinathapa/" target="_blank" rel="noopener"
+                        aria-label="Find me on LinkedIn (link opens in a new tab)">
+                        <i class="fa-brands fa-linkedin" style="color: #ffffff;"></i></a>
+                </li>
+                <li>
+                    <a href="https://github.com/salinathapa" target="_blank" rel="noopener"
+                        aria-label="Find me on GitHub (link opens in a new tab)">
+                        <i class="fa-brands fa-github" style="color: #ffffff;"></i></i></a>
+                </li>
+            </ul>
+        <div class="copyright">
+            <p><i class="far fa-copyright" style="color: white;"></i>Salina Thapa 2023</p>
+        </div>
+    </footer>
 </body>
 </html>
