@@ -74,3 +74,15 @@ It will be a work in progress site that I will slowly keep adding onto so I can 
 
 <p>https://validator.w3.org/nu/</p>
 <p>I was able to use this site to check my HTML to ensure that the website is as accessible as it can be</p>
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227809842-acee0ad3-9029-48c1-8ea8-048813b5d17b.png">
+
+<br>
+
+<p>As you can see, after there are no errors on my page</p>
+
+<br>
+
+<p>Click on the following link to see my live page!</p>
+
+<p>https://salinathapa.github.io/ci-portfolio-1/</p>
