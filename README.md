@@ -4,6 +4,10 @@ My website is a personal portfolio for employers to look through my CV and asses
 
 Employers will be able to use my website for information about myself, my career history, see how my current skills are, and contact me if they're interested.
 
+It will be a work in progress site that I will slowly keep adding onto so I can showcase my skills as they improve.
+
+<img width="960" alt="Screenshot 2023-03-26 232807" src="https://user-images.githubusercontent.com/119977423/227808934-45a19cce-517a-438b-8027-b52267a9eb32.png">
+
 <h2>Features</h2>
 
 <h3>Header and Navigation</h3>
@@ -14,7 +18,7 @@ Employers will be able to use my website for information about myself, my career
 
 <br>
 
-<img width="953" alt="image" src="https://user-images.githubusercontent.com/119977423/224456773-f1722480-449f-4c14-b201-788d0557b51c.png">
+<img width="960" alt="Screenshot 2023-03-26 232943" src="https://user-images.githubusercontent.com/119977423/227808978-4e3c652e-879a-4374-82bc-55d9d75620a5.png">
 
 <br>
 
@@ -26,7 +30,7 @@ Employers will be able to use my website for information about myself, my career
 
 <br>
 
-<img width="936" alt="image" src="https://user-images.githubusercontent.com/119977423/224457175-8be1c569-540a-40a9-a634-0f6353a2e95b.png">
+<img width="960" alt="Screenshot 2023-03-26 231010" src="https://user-images.githubusercontent.com/119977423/227808994-85f703b3-6e50-4d1e-95a1-02f66cdeb1ba.png">
 
 <br>
 
@@ -34,29 +38,39 @@ Employers will be able to use my website for information about myself, my career
 
 <li>The Career page lists all my job experiences</li>
 <li>This helps employers understand my background and the experiences I have had and the skills I can bring to my new role</li>
+<li>Each career path is in it's own card to for easy reading</li>
 
 <br>
 
-<img width="959" alt="Screenshot_20230311_012923" src="https://user-images.githubusercontent.com/119977423/224457510-65a66cb9-81e4-402d-8e22-6b6d1a81406a.png">
+<img width="960" alt="Screenshot 2023-03-26 231032" src="https://user-images.githubusercontent.com/119977423/227809082-70be6418-dd5e-40b6-bb91-dbdc8c70233c.png">
 
-<h3>Contact Page</h3>
+<h3>Contact Me Page</h3>
 
 <li>The contact page is a simple form for employers to send over their details</li>
 
 <br>
 
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/119977423/224457629-54a06a2e-3868-4830-b307-22d5824d9122.png">
+<img width="960" alt="Screenshot 2023-03-26 231101" src="https://user-images.githubusercontent.com/119977423/227809100-5e41a2ff-9f43-44c0-bb4f-95a8329cae68.png">
 
 <h3>Footer</h3>
 
-<li>The footer is a simple link to LinkedIn for employers to look at futher information about myself that may not be on the website</li>
-<li>This can also be used to contact me if they have a further message they would like to add</li>
+<li>The footer is a simple link to LinkedIn and GitHub for employers to look at futher information about myself that may not be on the website</li>
 
 <br>
 
-<img width="952" alt="image" src="https://user-images.githubusercontent.com/119977423/224457707-a7c52598-5ebd-48b3-8863-b8bb4993fadc.png">
+<img width="960" alt="Screenshot 2023-03-26 231100" src="https://user-images.githubusercontent.com/119977423/227809141-296f6025-d91b-4eb0-864c-be9ac386fd4c.png">
 
-<h2>Testing</h2>
+<br>
 
-<li>I tested the page and it works on all browers, however, I could not get it to load on the Am I Responsive? Site despite it working on all platforms</li>
-<li>The form validates input and leads onto the Code Institute site</li>
+<h3>Testing</h3>
+
+<p>When I initially tested my site and submitted it, it turns out that nothing had been pushed hence why my site wasn't loading. Thanfully, I was able to recover most data and change up the style of my webpage for a more accessible look because of this.</p>
+
+<br>
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/119977423/227809368-e19767d9-400e-43fb-b8b0-b887facbf630.png">
+
+<br>
+
+<p>https://validator.w3.org/nu/</p>
+<p>I was able to use this site to check my HTML to ensure that the website is as accessible as it can be</p>
